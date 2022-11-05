@@ -1,4 +1,16 @@
+![Application Screenshot](public/screenshot.png "San Juan Mountains")
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Welcome to the Ninja Haven!
+
+We are the No 1 Ninja hiring and provision website on the interwebs. Have a security problem? Browse our database and get in touch with our reliable ninjas to catch your menace. We provide a diverse range of services to our customers including:-
+
+Harassing your jealous neighbours
+Scaring your ex girlfriends
+Providing VIP bodyguard services
+Training in rudeness defensive arguing
+Eliminating low self esteem
 
 ## Getting Started
 
